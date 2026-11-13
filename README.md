@@ -10,15 +10,15 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2a9de0&height=2" width="100%"/>
 
 <!-- Skills -->
-<h2 align="center">Skills</h2>
+<h2 align="center">🗺️ Skills</h2>
 
 <p align="center">
-  <a href="skills/SKILLS.en.md"><img src="https://img.shields.io/badge/English-0b0f14?style=for-the-badge&logo=readthedocs&logoColor=2a9de0" alt="English"/></a>
-  <a href="skills/SKILLS.ua.md"><img src="https://img.shields.io/badge/Українська-0b0f14?style=for-the-badge&logo=readthedocs&logoColor=6cc04a" alt="Українська"/></a>
-  <a href="skills/SKILLS.ru.md"><img src="https://img.shields.io/badge/Русский-0b0f14?style=for-the-badge&logo=readthedocs&logoColor=f1f1ec" alt="Русский"/></a>
+  <a href="skills/SKILLS.en.md"><img src="https://img.shields.io/badge/English-0b0f14?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCA0MCI%2BPHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjQwIiBmaWxsPSIjMDEyMTY5Ii8%2BPHBhdGggZD0iTTAgMEw2MCA0ME02MCAwTDAgNDAiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI4Ii8%2BPHBhdGggZD0iTTAgMEw2MCA0ME02MCAwTDAgNDAiIHN0cm9rZT0iI2M4MTAyZSIgc3Ryb2tlLXdpZHRoPSIzIi8%2BPHBhdGggZD0iTTMwIDBWNDBNMCAyMEg2MCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEzIi8%2BPHBhdGggZD0iTTMwIDBWNDBNMCAyMEg2MCIgc3Ryb2tlPSIjYzgxMDJlIiBzdHJva2Utd2lkdGg9IjgiLz48L3N2Zz4%3D" alt="English"/></a>
+  <a href="skills/SKILLS.ua.md"><img src="https://img.shields.io/badge/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-0b0f14?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCA0MCI%2BPHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjMDA1N2I3Ii8%2BPHJlY3QgeT0iMjAiIHdpZHRoPSI2MCIgaGVpZ2h0PSIyMCIgZmlsbD0iI2ZmZDcwMCIvPjwvc3ZnPg%3D%3D" alt="Українська"/></a>
+  <a href="skills/SKILLS.ru.md"><img src="https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-0b0f14?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCA0MCI%2BPHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjEzLjQiIGZpbGw9IiNmZmYiLz48cmVjdCB5PSIxMy4zIiB3aWR0aD0iNjAiIGhlaWdodD0iMTMuNCIgZmlsbD0iIzAwMzlhNiIvPjxyZWN0IHk9IjI2LjYiIHdpZHRoPSI2MCIgaGVpZ2h0PSIxMy40IiBmaWxsPSIjZDUyYjFlIi8%2BPC9zdmc%2B" alt="Русский"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6cc04a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2a9de0&height=2" width="100%"/>
 
 <!-- Stack -->
 <h2 align="center">⚡ Stack I'm aiming for</h2>
@@ -51,10 +51,10 @@
 
 <div align="center">
 
-<img width="420" height="165" src="https://github-stats-extended.vercel.app/api?username=HeisDevoid&show_icons=true&hide_rank=true&card_width=420&line_height=20&title_color=2a9de0&text_color=e8ecef&icon_color=6cc04a&border_color=1d3b52&bg_color=0b0f14&cache_seconds=1800" alt="GitHub stats" />
-<img width="420" height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HeisDevoid&layout=compact&langs_count=6&card_width=420&title_color=2a9de0&text_color=e8ecef&border_color=1d3b52&bg_color=0b0f14&cache_seconds=1800" alt="Top languages" />
+<img width="400" height="165" src="https://github-stats-extended.vercel.app/api?username=HeisDevoid&show_icons=true&hide_rank=true&card_width=400&line_height=20&title_color=2a9de0&text_color=e8ecef&icon_color=6cc04a&border_color=1d3b52&bg_color=0b0f14&cache_seconds=1800" alt="GitHub stats" />
+<img width="400" height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HeisDevoid&layout=compact&langs_count=6&card_width=400&title_color=2a9de0&text_color=e8ecef&border_color=1d3b52&bg_color=0b0f14&cache_seconds=1800" alt="Top languages" />
 
-<br><br>
+<br>
 
 <img src="https://streak-stats.demolab.com?user=HeisDevoid&theme=transparent&hide_border=true&ring=2a9de0&fire=6cc04a&currStreakNum=f1f1ec&sideNums=f1f1ec&currStreakLabel=2a9de0&sideLabels=8aa0b0&dates=8aa0b0" alt="Streak" />
 
